@@ -5,4 +5,4 @@ simple javascript, Html and Cssis usedto create this project.
 
 ## Here How it Look
 
-![project 1](./Output.png)
+![project 1](Output.PNG)
